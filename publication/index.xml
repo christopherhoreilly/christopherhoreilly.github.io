@@ -5,7 +5,7 @@
     <link>https://www.choreilly.com/publication/</link>
       <atom:link href="https://www.choreilly.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 23:59:38 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 13:05:47 +0000</lastBuildDate>
     <image>
       <url>https://www.choreilly.com/images/icon_hu0d0fce468c533727bdd2df18446c698d_11985_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>The Dynamical Influence of the Atlantic Multidecadal Oscillation on Continental Climate</title>
       <link>https://www.choreilly.com/publication/oreilly-2017-dynamical/</link>
-      <pubDate>Tue, 29 Dec 2020 23:59:38 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:05:47 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/oreilly-2017-dynamical/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Seasonal Forecasts of the Twentieth Century</title>
       <link>https://www.choreilly.com/publication/weisheimer-2020-seasonal/</link>
-      <pubDate>Tue, 29 Dec 2020 23:59:34 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:05:41 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/weisheimer-2020-seasonal/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Comparing Methods to Constrain Future European Climate Projections Using a Consistent Framework</title>
       <link>https://www.choreilly.com/publication/brunner-2020-comparing/</link>
-      <pubDate>Tue, 29 Dec 2020 23:59:33 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:05:40 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/brunner-2020-comparing/</guid>
       <description></description>
     </item>
@@ -221,6 +221,22 @@
     </item>
     
     <item>
+      <title>Atmospheric seasonal forecasts of the twentieth century: multi-decadal variability in predictive skill of the winter North Atlantic Oscillation (NAO) and their potential value for extreme event attribution</title>
+      <link>https://www.choreilly.com/publication/weisheimer-2016-atmospheric/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.choreilly.com/publication/weisheimer-2016-atmospheric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gulf Stream influence on wintertime North Atlantic jet variability</title>
+      <link>https://www.choreilly.com/publication/oreilly-2016-gulfstream/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.choreilly.com/publication/oreilly-2016-gulfstream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The influence of the Gulf Stream on wintertime European blocking</title>
       <link>https://www.choreilly.com/publication/oreilly-2016-influence/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -237,10 +253,26 @@
     </item>
     
     <item>
+      <title>The influence of the Gulf Stream on wintertime European blocking</title>
+      <link>https://www.choreilly.com/publication/oreilly-2015-influence/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.choreilly.com/publication/oreilly-2015-influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The response of the Pacific storm track and atmospheric circulation to Kuroshio Extension variability</title>
       <link>https://www.choreilly.com/publication/oreilly-2015-response/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/oreilly-2015-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The response of the Pacific storm track and atmospheric circulation to Kuroshio Extension variability</title>
+      <link>https://www.choreilly.com/publication/oreilly-2014-response/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.choreilly.com/publication/oreilly-2014-response/</guid>
       <description></description>
     </item>
     
