@@ -5,7 +5,7 @@
     <link>https://www.choreilly.com/publication/</link>
       <atom:link href="https://www.choreilly.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 13:05:47 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 13:13:56 +0000</lastBuildDate>
     <image>
       <url>https://www.choreilly.com/images/icon_hu0d0fce468c533727bdd2df18446c698d_11985_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>The Dynamical Influence of the Atlantic Multidecadal Oscillation on Continental Climate</title>
       <link>https://www.choreilly.com/publication/oreilly-2017-dynamical/</link>
-      <pubDate>Wed, 30 Dec 2020 13:05:47 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:13:56 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/oreilly-2017-dynamical/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Seasonal Forecasts of the Twentieth Century</title>
       <link>https://www.choreilly.com/publication/weisheimer-2020-seasonal/</link>
-      <pubDate>Wed, 30 Dec 2020 13:05:41 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:13:51 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/weisheimer-2020-seasonal/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Comparing Methods to Constrain Future European Climate Projections Using a Consistent Framework</title>
       <link>https://www.choreilly.com/publication/brunner-2020-comparing/</link>
-      <pubDate>Wed, 30 Dec 2020 13:05:40 +0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:13:50 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/brunner-2020-comparing/</guid>
       <description></description>
     </item>
@@ -41,14 +41,6 @@
       <link>https://www.choreilly.com/publication/oreilly-2020-seasonal/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/oreilly-2020-seasonal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calibrating large-ensemble European climate projections using observational data</title>
-      <link>https://www.choreilly.com/publication/oreilly-2020-calibrating/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.choreilly.com/publication/oreilly-2020-calibrating/</guid>
       <description></description>
     </item>
     
@@ -197,22 +189,6 @@
     </item>
     
     <item>
-      <title>Atmospheric seasonal forecasts of the twentieth century: multi-decadal variability in predictive skill of the winter North Atlantic Oscillation (NAO) and their potential value for extreme event attribution</title>
-      <link>https://www.choreilly.com/publication/weisheimer-2017-atmospheric/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.choreilly.com/publication/weisheimer-2017-atmospheric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Gulf Stream influence on wintertime North Atlantic jet variability</title>
-      <link>https://www.choreilly.com/publication/oreilly-2017-gulfstream/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.choreilly.com/publication/oreilly-2017-gulfstream/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Variability in seasonal forecast skill of Northern Hemisphere winters over the twentieth century</title>
       <link>https://www.choreilly.com/publication/oreilly-2017-variability/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -237,14 +213,6 @@
     </item>
     
     <item>
-      <title>The influence of the Gulf Stream on wintertime European blocking</title>
-      <link>https://www.choreilly.com/publication/oreilly-2016-influence/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.choreilly.com/publication/oreilly-2016-influence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The signature of low-frequency oceanic forcing in the Atlantic Multidecadal Oscillation</title>
       <link>https://www.choreilly.com/publication/oreilly-2016-signature/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -257,14 +225,6 @@
       <link>https://www.choreilly.com/publication/oreilly-2015-influence/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://www.choreilly.com/publication/oreilly-2015-influence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The response of the Pacific storm track and atmospheric circulation to Kuroshio Extension variability</title>
-      <link>https://www.choreilly.com/publication/oreilly-2015-response/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.choreilly.com/publication/oreilly-2015-response/</guid>
       <description></description>
     </item>
     
