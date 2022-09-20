@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Christopher H. O&#39;Reilly</title>
+    <link>https://www.choreilly.com/post/</link>
+      <atom:link href="https://www.choreilly.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 12:06:28 +0100</lastBuildDate>
+    <image>
+      <url>https://www.choreilly.com/images/icon_hu0d0fce468c533727bdd2df18446c698d_11985_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://www.choreilly.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Outlook for the upcoming UK winter</title>
+      <link>https://www.choreilly.com/post/winter-2022-sept-outlook/</link>
+      <pubDate>Thu, 15 Sep 2022 12:06:28 +0100</pubDate>
+      <guid>https://www.choreilly.com/post/winter-2022-sept-outlook/</guid>
+      <description>&lt;h2 id=&#34;an-important-winter&#34;&gt;An important winter&lt;/h2&gt;
+&lt;p&gt;The price of utilities has risen dramatically over the last year for people, businesses and organisations in the UK. As we move towards winter there is great concern about the effect of these price rises on peoples lives. In the UK, winter temperatures have a strong impact on the demand for gas and electricity. For example, a winter with a 1 degree temperature anomaly resulting in roughly a daily average gas demand anomaly of 100 GWh over a winter season:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-uk-gas-demand-is-strongly-negatively-correlated-with-uk-temperature-from-thornton-et-al-2019httpsiopscienceioporgarticle1010881748-9326aaf338meta&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Thornton_etal_2019_hud77137e82e370915db5f4039c03cce4b_152028_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;UK gas demand is strongly negatively correlated with UK temperature. From &amp;lt;a href=&amp;#34;https://iopscience.iop.org/article/10.1088/1748-9326/aaf338/meta&amp;#34;&amp;gt;Thornton et al. (2019)&amp;lt;/a&amp;gt;.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Thornton_etal_2019_hud77137e82e370915db5f4039c03cce4b_152028_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;743&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    UK gas demand is strongly negatively correlated with UK temperature. From &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/aaf338/meta&#34;&gt;Thornton et al. (2019)&lt;/a&gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In monetary terms, based on the the UK October gas price cap (i.e. 10.3p/kWh), this equates to about £1 billion for each 1 degree UK temperature anomaly (though likely much higher due to the higher unit costs for businesses/organisations - not to mention the governments costs to underwrite the price cap). The numbers are pretty big, and the stakes are pretty high.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;what-do-the-forecast-models-predict&#34;&gt;What do the forecast models predict?&lt;/h2&gt;
+&lt;p&gt;So can we predict what is in store for the UK this winter? Seasonal forecasts out to six months in the future are performed operationally by weather centres across the world. The European Commission&amp;rsquo;s &lt;a href=&#34;https://climate.copernicus.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copernicus Climate Change Service&lt;/a&gt; (or, more snappily, &amp;ldquo;C3S&amp;rdquo;) coordinates these long-range forecasts from 7 international centres (including the UK Met Office). When forecasting many months ahead we cannot predict the weather on a particular day, however, forecasts demonstrate some skill in determining average conditions on monthly timescales.&lt;/p&gt;
+&lt;p&gt;The surface air temperature anomalies from the C3S multi-model forecasts are shown below. There are warm anomalies over the UK, over both early winter (November/December) and late winter (January/February):&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ensemble-mean-2m-temperature-anomaly-from-the-c3s-multi-model-seasonal-forecasts-the-anomalies-are-relative-to-the-climatology-calculated-from-the-hindcasts-over-1993-2016-the-black-lines-show-where-the-ensemble-mean-anomaly-exceed-the-04-standard-deviations-of-internal-variability-calculated-relative-to-the-variability-of-the-hindcasts&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/FCanom_T_C3S_huf263531a1bab9f56a6a1a836e8e5f3ea_3363140_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Ensemble mean 2m temperature anomaly from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. The black lines show where the ensemble mean anomaly exceed the 0.4 standard deviations of internal variability, calculated relative to the variability of the hindcasts.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/FCanom_T_C3S_huf263531a1bab9f56a6a1a836e8e5f3ea_3363140_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;60%&#34; height=&#34;3313&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Ensemble mean 2m temperature anomaly from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. The black lines show where the ensemble mean anomaly exceed the 0.4 standard deviations of internal variability, calculated relative to the variability of the hindcasts.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;However, these 2m temperature forecasts should be treated with caution because over Europe, and particularly over the UK, they do not demonstrate clear skill&lt;/strong&gt;. The following plot shows the correlation skill of 2m temperature and sea-level pressure for the C3S multi-model seasonal forecasts:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ensemble-mean-correlation-skill-for-the-c3s-multi-model-hindcasts-initialised-on-1st-september-the-skill-is-shown-for-three-periods-december-january-february-djf-november-december-nd-and-january-february-nd&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Skill_C3S_COMBINED_hu60312e0c36ae9711a0e5a1203b6324e6_6367022_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Ensemble mean correlation skill for the C3S multi-model hindcasts (initialised on 1st September). The skill is shown for three periods: December-January-February (DJF), November-December (ND), and January-February (ND).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Skill_C3S_COMBINED_hu60312e0c36ae9711a0e5a1203b6324e6_6367022_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;3338&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Ensemble mean correlation skill for the C3S multi-model hindcasts (initialised on 1st September). The skill is shown for three periods: December-January-February (DJF), November-December (ND), and January-February (ND).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Over the UK there is little skill in 2m temperature; however, there &lt;em&gt;is&lt;/em&gt; skill in the sea-level pressure over the North Atlantic and this can be utilised to provide predictions of the UK temperature (as demonstrated  in several studies&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+&lt;p&gt;For the upcoming winter it is useful to first consider predictions of the large-scale atmospheric circulation because the winter temperatures in the UK are largely determined by wind anomalies (and the associated advection) in the surrounding Euro-Atlantic sector. The multi-model forecasts of the sea-level pressure anomalies for the 2022/23 winter are plotted here:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ensemble-mean-slp-anomaly-from-the-c3s-multi-model-seasonal-forecasts-the-anomalies-are-relative-to-the-climatology-calculated-from-the-hindcasts-over-1993-2016-the-black-lines-show-where-the-ensemble-mean-anomaly-exceed-the-04-standard-deviations-of-internal-variability-calculated-relative-to-the-variability-of-the-hindcasts&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/FCanom_SLP_C3S_hu511ebb0c8a7353b039df23567a02aa18_2660258_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Ensemble mean SLP anomaly from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. The black lines show where the ensemble mean anomaly exceed the 0.4 standard deviations of internal variability, calculated relative to the variability of the hindcasts.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/FCanom_SLP_C3S_hu511ebb0c8a7353b039df23567a02aa18_2660258_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;60%&#34; height=&#34;3320&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Ensemble mean SLP anomaly from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. The black lines show where the ensemble mean anomaly exceed the 0.4 standard deviations of internal variability, calculated relative to the variability of the hindcasts.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The sea-level pressure anomalies over the North Atlantic exhibit notable changes in characteristics between early winter and late winter. In the early winter period (ND) there are high pressure anomalies across most of the midlatitude North Atlantic, extending into Europe. In the late winter period (JF) there are low pressure anomalies over Iceland and high pressure anomales further south, more closely resembling  the positive phase of the &lt;a href=&#34;https://www.climate.gov/news-features/understanding-climate/climate-variability-north-atlantic-oscillation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;North Atlantic Oscillation or &amp;ldquo;NAO&amp;rdquo;&lt;/a&gt;, which typically causes warmer winters in the UK. But what is driving these signals?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;la-nina-conditions-in-the-tropical-pacific&#34;&gt;La Nina conditions in the Tropical Pacific&lt;/h2&gt;
+&lt;p&gt;As we approach this winter, forecasts are confident that we will have La Nina conditions, associated with cooler sea surface temperatures in the eastern/central Tropical Pacific:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-nino-34-index-and-ensemble-mean-sst-anomalies-from-the-c3s-multi-model-seasonal-forecasts-the-anomalies-are-relative-to-the-climatology-calculated-from-the-hindcasts-over-1993-2016-these-plots---and-more---are-available-from-the-c3s-websitehttpsclimatecopernicuseuchartsc3s_seasonalc3s_seasonal_plume_mmfacetsundefinedtime202209010002022090100typeplumeareanino34&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/C3S_LaNina_hu1bf52d16da871cf9e2baf3ff00c62f90_4620528_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Nino 3.4 index and ensemble mean SST anomalies from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. These plots - and more - are available from the &amp;lt;a href=&amp;#34;https://climate.copernicus.eu/charts/c3s_seasonal/c3s_seasonal_plume_mm?facets=undefined&amp;amp;amp;time=2022090100,0,2022090100&amp;amp;amp;type=plume&amp;amp;amp;area=nino34&amp;#34;&amp;gt;C3S website&amp;lt;/a&amp;gt;.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/C3S_LaNina_hu1bf52d16da871cf9e2baf3ff00c62f90_4620528_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;2766&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Nino 3.4 index and ensemble mean SST anomalies from the C3S multi-model seasonal forecasts. The anomalies are relative to the climatology calculated from the hindcasts over 1993-2016. These plots - and more - are available from the &lt;a href=&#34;https://climate.copernicus.eu/charts/c3s_seasonal/c3s_seasonal_plume_mm?facets=undefined&amp;amp;time=2022090100,0,2022090100&amp;amp;type=plume&amp;amp;area=nino34&#34;&gt;C3S website&lt;/a&gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The observed impact of La Nina on the large-scale atmospheric circulation in the Euro-Atlantic sector shows a clear difference in the early winter compared with late winter (analysed in detail in some nice recent studies&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;). Composite anomalies during observed La Nina years are shown here:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-observational-slp-anomalies-for-the-early-winter-nd-and-late-winter-jf-during-la-nina-winters-with-respect-to-other-years-1954-2022-there-are-24-la-nina-winters-over-this-period-defined-using-the-oceanic-nino-indexhttpsorigincpcncepnoaagovproductsanalysis_monitoringensostuffoni_v5php-these-maps-were-produced-using-the-ncep-ncar-reanalysishttpspslnoaagovdatagriddeddatancepreanalysishtml---because-it-is-oh-so-easy-to-grab&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_LN_hu2298b45293284aa61fa9954c7de7d541_769651_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Observational SLP anomalies for the early winter (ND) and late winter (JF) during La Nina winters with respect to other years (1954-2022). There are 24 La Nina winters over this period, defined using the &amp;lt;a href=&amp;#34;https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php&amp;#34;&amp;gt;Oceanic Nino Index&amp;lt;/a&amp;gt;. These maps were produced using the &amp;lt;a href=&amp;#34;https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html&amp;#34;&amp;gt;NCEP-NCAR reanalysis&amp;lt;/a&amp;gt; - because it is oh-so-easy to grab.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_LN_hu2298b45293284aa61fa9954c7de7d541_769651_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;965&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Observational SLP anomalies for the early winter (ND) and late winter (JF) during La Nina winters with respect to other years (1954-2022). There are 24 La Nina winters over this period, defined using the &lt;a href=&#34;https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php&#34;&gt;Oceanic Nino Index&lt;/a&gt;. These maps were produced using the &lt;a href=&#34;https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html&#34;&gt;NCEP-NCAR reanalysis&lt;/a&gt; - because it is oh-so-easy to grab.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The resemblance of this observational composite plot to the predictions from the seasonal forecasts (i.e. Figure 4) is very clear. In the early winter the ridging over the North Atlantic is followed by the emergence of positive NAO conditions in late winter. The La Nina conditions are clearly, and I suppose &lt;em&gt;obviously&lt;/em&gt;, driving the circulation anomalies in the seasonal forecasts and the comparison with observations suggests that this is sensible forecast&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;a-possible-role-for-the-quasi-biennial-oscillation-qbo&#34;&gt;A possible role for the Quasi-Biennial Oscillation (QBO)?&lt;/h2&gt;
+&lt;p&gt;Another driver that can confidently be predicted (mostly) several months in advance and can influence the extratropical large-scale circulation is the &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999RG000073&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quasi-Biennial Oscillation (QBO)&lt;/a&gt;. The QBO refers to the equatorial winds in the stratosphere that oscillate between eastward and westward phases, which have been shown to influence the large-scale tropospheric circulation in the Euro-Atlantic region&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. The QBO is currently in a &amp;ldquo;deep&amp;rdquo; westerly phase, with strong westerly winds that span the depth of the equatorial stratosphere:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-observations-of-the-equatorial-winds-in-the-stratosphere-from-the-fub-radiosonde-datasethttpswwwgeofu-berlindeenmetagstratprodukteqboindexhtml-plot-from-the-nasa-gsfc-websitehttpsacd-extgsfcnasagovdata_servicesmetqboqbohtml-the-current-winter-fits-in-the-deep-qbo-w-phase-in-the-phases-diagram-on-the-right-produced-by-plotting-the-observed-zonal-winds-at-30hpa-and-15hpa-following-andrews-et-al-2019httpsagupubsonlinelibrarywileycomdoifull1010292018jd029368&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/QBOphase_hubd60cf108eec99e10940c80b426c8975_8404638_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Observations of the equatorial winds in the stratosphere from the &amp;lt;a href=&amp;#34;https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/qbo/index.html&amp;#34;&amp;gt;FUB radiosonde dataset&amp;lt;/a&amp;gt; (plot from the &amp;lt;a href=&amp;#34;https://acd-ext.gsfc.nasa.gov/Data_services/met/qbo/qbo.html&amp;#34;&amp;gt;NASA-GSFC website&amp;lt;/a&amp;gt;). The current winter fits in the Deep QBO-W phase in the phases diagram on the right (produced by plotting the observed zonal winds at 30hPa and 15hPa, following &amp;lt;a href=&amp;#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029368&amp;#34;&amp;gt;Andrews et al. (2019)&amp;lt;/a&amp;gt;)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/QBOphase_hubd60cf108eec99e10940c80b426c8975_8404638_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;2967&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Observations of the equatorial winds in the stratosphere from the &lt;a href=&#34;https://www.geo.fu-berlin.de/en/met/ag/strat/produkte/qbo/index.html&#34;&gt;FUB radiosonde dataset&lt;/a&gt; (plot from the &lt;a href=&#34;https://acd-ext.gsfc.nasa.gov/Data_services/met/qbo/qbo.html&#34;&gt;NASA-GSFC website&lt;/a&gt;). The current winter fits in the Deep QBO-W phase in the phases diagram on the right (produced by plotting the observed zonal winds at 30hPa and 15hPa, following &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029368&#34;&gt;Andrews et al. (2019)&lt;/a&gt;)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Composite anomalies of QBO-W winters from the observations demonstrate a clear signal in early and late winter, both of which project onto the positive phase of the NAO:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-observational-slp-anomalies-for-the-early-winter-nd-and-late-winter-jf-during-deep-qbo-w-winters-with-respect-to-other-years-1954-2022-there-are-only-14-deep-qbo-w-winters-over-this-period&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_QBOw_huebd3939a67d3be3e87d3d229267b9ad5_715505_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Observational SLP anomalies for the early winter (ND) and late winter (JF) during Deep QBO-W winters with respect to other years (1954-2022). There are (only) 14 Deep QBO-W winters over this period.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_QBOw_huebd3939a67d3be3e87d3d229267b9ad5_715505_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;923&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Observational SLP anomalies for the early winter (ND) and late winter (JF) during Deep QBO-W winters with respect to other years (1954-2022). There are (only) 14 Deep QBO-W winters over this period.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The observational composites suggest that the current winter might be more likely to be in a positive NAO phase throughout. A number of studies have shown that seasonal forecasting models capture the correct sign of the relationship between the QBO and the NAO but that it is substantially weaker than in observations&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. We might therefore reasonably expect/anticipate/suppose that this effect is not adequately represented in the forecasts for this winter.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;what-does-this-mean-for-uk-temperatures&#34;&gt;What does this mean for UK temperatures?&lt;/h2&gt;
+&lt;p&gt;A simple way to consider what all this means for UK temperatures is to look at the distribution of UK winter temperatures in the observational record:&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-uk-temperatures-for-the-early-winter-nd-and-late-winter-jf-all-years--in-the-period-1954-2022-as-well-as-during-la-nina-winters-and-deep-qbo-w-winters-the-data-is-from-the-haduk-grid-datasethttpswwwmetofficegovukresearchclimatemaps-and-datauk-and-regional-series&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Tdists_OBS_UK_hufea78c41eb631e4f2abac55533039b76_391013_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;UK temperatures for the early winter (ND) and late winter (JF) all years  in the period 1954-2022, as well as during La Nina winters and deep QBO-W winters. The data is from the &amp;lt;a href=&amp;#34;https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series&amp;#34;&amp;gt;HadUK-grid dataset&amp;lt;/a&amp;gt;.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/Tdists_OBS_UK_hufea78c41eb631e4f2abac55533039b76_391013_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;90%&#34; height=&#34;1617&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    UK temperatures for the early winter (ND) and late winter (JF) all years  in the period 1954-2022, as well as during La Nina winters and deep QBO-W winters. The data is from the &lt;a href=&#34;https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series&#34;&gt;HadUK-grid dataset&lt;/a&gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The La Nina and deep QBO-W conditions tend to favour milder winters for the UK, however, there remains significant variability. For example, the record cold period during early winter in 2010/11 occurred during La Nina and deep QBO-W conditions (and possibly linked to North Atlantic SST anomalies&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;). Nonetheless, the drivers analysed here tend to favour circulation anomalies in both the early and late winter that favour milder UK conditions, and support the signals seen in the seasonal forecast models.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;so-we-can-be-cautiously-optimistic&#34;&gt;So we can be cautiously optimistic&amp;hellip;?&lt;/h2&gt;
+&lt;p&gt;Milder conditions would certainly be welcome this winter in the UK so its positive that the forecasts and drivers seem to point in this direction. However, there is of course still a clear possibility for cold conditions. One possible cause would be a sudden stratospheric warming event, in which the stratospheric polar vortex breaks down, favouring the development of negative NAO conditions and associated cold conditions in the UK. An example of this was the &amp;ldquo;Beast from the East&amp;rdquo; event in February 2018. Weather geeks get very &lt;a href=&#34;https://twitter.com/Domeisen_D/status/1336044374854144007?s=20&amp;amp;t=QIQNOQ-jFe-oRDmfmHUbsA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;excited about sudden warmings&lt;/a&gt; - and understandably so - but we might hope to forego such excitement this winter. The C3S seasonal models show no clear signal on the probability of a sudden stratospheric warming event occurring at present&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;So milder conditions might be on the cards for the UK this winter, which would be good news. But warmer winters also tend to be &lt;em&gt;wetter&lt;/em&gt; here in the UK, so at least we&amp;rsquo;ll still have that to moan about.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I might try to update this as we get a bit closer to the winter, either here or on another post. Do let me know if you have any thoughts or suggestions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Though there is skill in seasonal sea-level pressure predictions, the amplitude is generally too weak, which means that the impact on the 2m temperature is also very weak in the ensemble mean. E.g.: &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL059637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scaife et al. (2014)&lt;/a&gt;, &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014GL062681&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stockdale et al. (2015)&lt;/a&gt;, &lt;a href=&#34;https://www.nature.com/articles/s41612-018-0038-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scaife &amp;amp; Smith (2018)&lt;/a&gt;. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This is shown very nicely in both &lt;a href=&#34;https://journals.ametsoc.org/view/journals/bams/99/7/bams-d-17-0020.1.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King et al. (2018)&lt;/a&gt; and &lt;a href=&#34;https://journals.ametsoc.org/configurable/content/journals$002fclim$002f31$002f21$002fjcli-d-18-0097.1.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayarzagüena et al. (2018)&lt;/a&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;(&lt;em&gt;Added 20/9/22 following a great question from my colleague Kristian Strommen on Twitter&lt;/em&gt;). It seems that the C3S models do a reasonable job but perhaps underestimate the strength of the teleconnection to the North Atlantic in the winter, which would mean that the sea-level pressure signal in the 2022/23 forecast might be too weak. The following figure shows the SLP anomaly in the C3S runs and observations in La Nina winters compared to all other winters. The sample sizes in the observations are obviously quite small when just looking at the C3S period (1994-2017). 
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_C3S_OBS_COMPARE_hu96215c28770a2d9d6305ee9a7e85c185_1920655_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://www.choreilly.com/post/winter-2022-sept-outlook/SLPcomps_C3S_OBS_COMPARE_hu96215c28770a2d9d6305ee9a7e85c185_1920655_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;60%&#34; height=&#34;1835&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Some studies analysing different aspects of the QBO teleconnection extratropics that are particularly relevant to this post are &lt;a href=&#34;https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.2132&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anstey &amp;amp; Shepherd (2014)&lt;/a&gt;, &lt;a href=&#34;https://acp.copernicus.org/articles/18/8227/2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gray et al. (2018)&lt;/a&gt; and &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrews et al. (2019)&lt;/a&gt;. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See &lt;a href=&#34;https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;O&amp;rsquo;Reilly et al. (2018)&lt;/a&gt; and &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrews et al. (2019)&lt;/a&gt;. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This cold winter period was investigated by &lt;a href=&#34;https://journals.ametsoc.org/view/journals/mwre/141/11/mwr-d-13-00033.1.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maidens et al. (2013)&lt;/a&gt;. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This is not surprising as at long lead times such as this, i.e. a couple of months, but these things can quickly change, as shown in a recent paper by &lt;a href=&#34;https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.1126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lockwood et al. (2022)&lt;/a&gt;. &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
